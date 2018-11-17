@@ -21,6 +21,3 @@ in your terminal.
 
 Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
 
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
