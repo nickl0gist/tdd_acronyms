@@ -1,23 +1,23 @@
-# Acronym
+# Akronimy
 
-Convert a phrase to its acronym.
+Zamień długą nazwę na jej akronim.
 
-Techies love their TLA (Three Letter Acronyms)!
+Programiści uwielbiają TLA (Trój-Literowe Akronimy)!
 
-Help generate some jargon by writing a program that converts a long name
-like Portable Network Graphics to its acronym (PNG).
+Pomóż budować niezrozumiały żargon pisząc program, który zamiena długie nazwy 
+takie jak Portable Network Graphics na ich akronimy (PNG).
 
-# Running the tests
+# Uruchomienie testów
 
-You can run all the tests for an exercise by entering
+Możesz wywołać wszystkie testy pisząć następującą komendę
 
 ```sh
 $ gradle test
 ```
 
-in your terminal.
+w konsoli.
 
-## Source
+## Źródło
 
 Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
 
