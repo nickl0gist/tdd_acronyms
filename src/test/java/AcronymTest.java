@@ -13,6 +13,7 @@ public class AcronymTest {
     }
 
 
+    @Ignore
     @Test
     public void lowercaseWords() {
         String phrase = "Ruby on Rails";
@@ -21,6 +22,7 @@ public class AcronymTest {
     }
 
 
+    @Ignore
     @Test
     public void punctuation() {
         String phrase = "First In, First Out";
@@ -29,6 +31,7 @@ public class AcronymTest {
     }
 
 
+    @Ignore
     @Test
     public void NonAcronymAllCapsWord() {
         String phrase = "GNU Image Manipulation Program";
@@ -37,6 +40,7 @@ public class AcronymTest {
     }
 
 
+    @Ignore
     @Test
     public void punctuationWithoutWhitespace() {
         String phrase = "Complementary metal-oxide semiconductor";
